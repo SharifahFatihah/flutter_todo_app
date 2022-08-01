@@ -1,4 +1,4 @@
-# todo_app
+# To Do List App Flutter
 
 A To-Do App project by Mobile Development Module
 
